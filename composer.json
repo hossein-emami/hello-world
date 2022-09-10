@@ -1,5 +1,5 @@
 {
-    "name": "hossein-emami/hello-world",
+    "name": "aqueduct/laracode-panel",
     "version": "1.0.0",
     "autoload": {
         "psr-0": {
